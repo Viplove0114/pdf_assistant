@@ -58,9 +58,13 @@ streamlit run streamlit_app.py
 .
 |
 ├── pdf_assistant.py      # Original CLI version
+
 ├── streamlit_app.py      # Streamlit web app
+
 ├── requirements.txt      # Python dependencies
+
 ├── .env                  # Environment variables (not committed)
+
 └── README.md             # This file
 
 
