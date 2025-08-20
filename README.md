@@ -26,7 +26,7 @@ Upload any PDF, ask natural language questions, and get contextual answers based
 
 ### 1. Clone this repo
 
-git clone https://github.com/your-username/pdf-assistant.git
+git clone https://github.com/Viplove0114/pdf_assistant.git
 cd pdf-assistant
 
 ### 2. Install dependencies
