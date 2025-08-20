@@ -56,6 +56,7 @@ streamlit run streamlit_app.py
 
 ## 📂 Project Structure
 .
+|
 ├── pdf_assistant.py      # Original CLI version
 ├── streamlit_app.py      # Streamlit web app
 ├── requirements.txt      # Python dependencies
